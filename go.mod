@@ -6,16 +6,16 @@ require (
 	github.com/BurntSushi/toml v1.6.0
 	github.com/go-gormigrate/gormigrate/v2 v2.1.7
 	github.com/go-telegram/bot v1.27.0
-	github.com/jackc/pgx/v5 v5.11.0
-	github.com/moby/moby/api v1.56.0
-	github.com/nicksnyder/go-i18n/v2 v2.6.1
+	github.com/jackc/pgx/v5 v5.12.0
+	github.com/moby/moby/api v1.56.1
+	github.com/nicksnyder/go-i18n/v2 v2.7.0
 	github.com/stretchr/testify v1.12.1
 	github.com/testcontainers/testcontainers-go v0.44.0
 	github.com/testcontainers/testcontainers-go/modules/postgres v0.44.0
-	go.senan.xyz/taglib v0.14.0
-	go.yaml.in/yaml/v3 v3.0.5
-	golang.org/x/term v0.46.0
-	golang.org/x/text v0.42.0
+	go.senan.xyz/taglib v0.15.0
+	go.yaml.in/yaml/v3 v3.0.6
+	golang.org/x/term v0.47.0
+	golang.org/x/text v0.43.0
 	gorm.io/driver/postgres v1.6.3
 	gorm.io/gorm v1.31.2
 )
@@ -42,7 +42,7 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
-	github.com/jackc/puddle/v2 v2.2.2 // indirect
+	github.com/jackc/puddle/v2 v2.2.3 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/klauspost/compress v1.18.6 // indirect
@@ -71,6 +71,6 @@ require (
 	go.opentelemetry.io/otel/metric v1.44.0 // indirect
 	go.opentelemetry.io/otel/trace v1.44.0 // indirect
 	golang.org/x/crypto v0.54.0 // indirect
-	golang.org/x/sync v0.23.0 // indirect
-	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/sync v0.24.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
 )
